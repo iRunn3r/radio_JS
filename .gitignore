@@ -1,0 +1,9 @@
+*~
+**~
+platforms/**
+plugins/**
+node_modules/
+.DS_Store
+npm-debug.log
+resources/signing
+.vscode/
